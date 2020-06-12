@@ -1,5 +1,8 @@
 # Huffman_Coding
 Matlab代码实现哈夫曼编码
+
+博客：https://blog.csdn.net/weixin_42914989/article/details/106647843
+
 - 请依据哈夫曼编码的方法对如下的字符进行编码，并计算产生的码流的编码压缩效率:
 1. 练习一:“abcdaabbccaaabbbcfaaaabbbccdffeeeaaabbbcccdefabcde”
 
